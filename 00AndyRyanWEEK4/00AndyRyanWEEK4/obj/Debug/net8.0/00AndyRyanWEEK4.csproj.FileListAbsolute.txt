@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\bin\Debug\net8.0\00AndyRyanWEEK4.exe
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\bin\Debug\net8.0\00AndyRyanWEEK4.deps.json
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\bin\Debug\net8.0\00AndyRyanWEEK4.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\bin\Debug\net8.0\00AndyRyanWEEK4.dll
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\bin\Debug\net8.0\00AndyRyanWEEK4.pdb
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.dll
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\refint\00AndyRyanWEEK4.dll
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.pdb
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\00AndyRyanWEEK4.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\00AndyRyanWEEK4\00AndyRyanWEEK4\obj\Debug\net8.0\ref\00AndyRyanWEEK4.dll
